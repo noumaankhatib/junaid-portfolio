@@ -66,8 +66,8 @@ export default function GoogleAdsLandingPage() {
               <p className="text-text-secondary text-sm">Ad Spend Managed</p>
             </div>
             <div>
-              <p className="text-2xl font-bold text-primary">2000+</p>
-              <p className="text-text-secondary text-sm">Leads Generated</p>
+              <p className="text-2xl font-bold text-primary">10000+</p>
+              <p className="text-text-secondary text-sm">Qualified Leads generated</p>
             </div>
             <div>
               <p className="text-2xl font-bold text-accent">3x</p>

@@ -11,9 +11,9 @@ const metrics = [
   },
   {
     icon: Users,
-    value: 2000,
+    value: 10000,
     suffix: "+",
-    label: "Leads Generated",
+    label: "Qualified Leads generated",
   },
   {
     icon: TrendingUp,
